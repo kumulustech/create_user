@@ -4,6 +4,7 @@
   user:
     name: '{{user_name}}'
     state: '{{user_state}}'
+    remove: yes
     shell: /bin/bash
     groups: sudo
     append: yes
